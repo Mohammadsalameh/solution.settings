@@ -1,1 +1,1 @@
-export GITHUB_PREFIX="git@git.rhrk.uni-kl.de:Lehre-FPGAHS2015/"
+export GITHUB_PREFIX="git@github.com:tukl-fpgahs2016ss/"
